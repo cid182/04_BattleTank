@@ -10,5 +10,5 @@ These are just the files from the course, and my attempts at following along wit
 ---
 
 ## Lecture List
-BT01 Section Intro
-BT02 GDD
+* BT01 Section Intro
+* BT02 GDD
