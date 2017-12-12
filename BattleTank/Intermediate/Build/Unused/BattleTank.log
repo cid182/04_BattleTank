@@ -1,0 +1,16 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Parsing headers for BattleTankEditor
+    Running UnrealHeaderTool "C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\BattleTank.uproject" "C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\BattleTankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BattleTankEditor in 46.6737179 seconds
+  Performing 6 actions (4 in parallel)
+  TankPlayerController.cpp
+  TankPlayerController.gen.cpp
+  TankAIController.gen.cpp
+  TankAIController.cpp
+  [5/6] Link UE4Editor-BattleTank-8953.dll
+  [6/6] Link UE4Editor-BattleTank-8953.lib
+     Creating library C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BattleTank-8953.lib and object C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BattleTank-8953.exp
+     Creating library C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BattleTank-8953.suppressed.lib and object C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BattleTank-8953.suppressed.exp
+  Deploying BattleTankEditor Win64 Development...
+  Total build time: 336.10 seconds (Local executor: 256.19 seconds)

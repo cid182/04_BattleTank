@@ -1,0 +1,3 @@
+C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Source\BattleTank\BattleTank.Build.cs
+C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Source\BattleTank.Target.cs
+C:\dev\repos\Udemy\04_BattleTank\04_BattleTank\BattleTank\Source\BattleTankEditor.Target.cs
